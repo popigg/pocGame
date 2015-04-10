@@ -1,0 +1,11 @@
+{
+  "name": "pocGame",
+  "version": "0.0.0",
+  "authors": [
+    "Pablo Gomez <popigg@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "~2.3.0"
+  }
+}
